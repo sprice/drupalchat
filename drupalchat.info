@@ -1,0 +1,20 @@
+name = DrupalChat
+core = 7.x
+description = A simple Drupal distro using chatroom and node.js.
+
+; Core
+dependencies[] = book
+dependencies[] = contact
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = menu
+dependencies[] = path
+dependencies[] = taxonomy
+
+; Contrib
+
+dependencies[] = admin
+dependencies[] = nodejs
+dependencies[] = nodejs_config
+dependencies[] = chatroom
+dependencies[] = chatroom_ui
