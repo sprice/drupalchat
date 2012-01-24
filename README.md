@@ -45,4 +45,4 @@ Install Drupal as usual using the DrupalChat install profile.
 
 ## Current Status
 
-* not working
+* Field display not yet working.
